@@ -28,17 +28,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekiiitg56&show_icons=true&theme=radical" alt="Prateek's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prateekiiitg56&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/prateek-47b315289)
