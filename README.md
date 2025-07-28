@@ -30,7 +30,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/prateek-47b315289)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/prateekiiitg56/)
 [![Gmail](https://img.shields.io/badge/-prateek-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ps332927@gmail.com)
 
 ---
