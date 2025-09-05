@@ -1,38 +1,84 @@
-<h1 align="center">Hey there! I'm Prateek 👋</h1>
+<!-- Header with Typing Animation -->
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Hey%20there!%20I'm%20Prateek%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="header" />
+</h1>
+
 
 <p align="center">
-🎓 B.Tech CSE @ IIIT Guwahati <br>
-🌱 GSSoC '25 Contributor | Open Source Enthusiast <br>
-💻 Tech + Innovation Lover | Web Dev & Problem Solving <br>
-🚀 Always curious, always building
+  🎓 B.Tech CSE @ IIIT Guwahati <br>  
+  🌱 GSSoC '25 Contributor | Open Source Enthusiast <br>  
+  💻 Web Dev & Problem Solving <br>  
+  🚀 Always curious, always building  
+</p>  
+
+---
+
+## 👨‍💻 About Me  
+- 🧠 Diving deep into **JavaScript, React, and Backend Dev**  
+- 📚 Active **Open Source Contributor** through GSSoC '25  
+- 🛠️ Building clean UIs and meaningful tech solutions  
+- 💬 Always open to collaboration & tech talks  
+- ⚡ Fun fact: Coffee ☕ + Code 💻 = Productivity 🚀  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,react,nodejs,express,vscode,figma" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🏆 Achievements  
 
-- 🧠 Currently diving deep into **JavaScript**, **React**, and **Backend Dev**
-- 📚 Learning and contributing to **Open Source** through GSSoC '25
-- 🛠️ Love building clean UIs and meaningful tech solutions
-- 💬 Always open to collaboration and tech talks
-
----
-
-### 🛠️ Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/prateekiiitg56/)
-[![Gmail](https://img.shields.io/badge/-prateek-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ps332927@gmail.com)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prateekiiitg56&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
-<p align="center">✨ Let’s build something cool together! ✨</p>
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prateekiiitg56&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prateekiiitg56&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekiiitg56&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>  
+</p>
+
+---
+
+## 📊 GitHub Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateekiiitg56&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📡 Profile Insights  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prateekiiitg56&label=Profile+Views&color=blueviolet&style=flat-square" /> 
+  <img src="https://img.shields.io/github/followers/prateekiiitg56?style=flat-square&color=brightgreen" />
+  <img src="https://img.shields.io/github/stars/prateekiiitg56?style=flat-square&color=yellow" />
+</p>
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prateekiiitg56/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:ps332927@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  ✨ Let’s build something amazing together! ✨ <br><br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
