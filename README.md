@@ -3,10 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Hey%20there!%20I'm%20Prateek%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="header" />
 </h1>
 
-
 <p align="center">
   🎓 B.Tech CSE @ IIIT Guwahati <br>  
-  🌱 GSSoC '25 Contributor | Open Source Enthusiast <br>  
+  🌱 <b>GSSoC '25 Contributor 🏆</b> | Open Source Enthusiast <br>  
   💻 Web Dev & Problem Solving <br>  
   🚀 Always curious, always building  
 </p>  
@@ -15,7 +14,7 @@
 
 ## 👨‍💻 About Me  
 - 🧠 Diving deep into **JavaScript, React, and Backend Dev**  
-- 📚 Active **Open Source Contributor** through GSSoC '25  
+- 📚 Active **Open Source Contributor** through <b>GSSoC '25</b>  
 - 🛠️ Building clean UIs and meaningful tech solutions  
 - 💬 Always open to collaboration & tech talks  
 - ⚡ Fun fact: Coffee ☕ + Code 💻 = Productivity 🚀  
@@ -34,6 +33,18 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prateekiiitg56&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSSoC'25-Contributor-orange?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+</p>
+
+---
+
+## 🥇 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api/badge/prateekiiitg56?theme=dark&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -74,6 +85,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/prateekiiitg56/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:ps332927@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
+</p>
+
+---
+
+## 🐍 Fun Addition  
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
