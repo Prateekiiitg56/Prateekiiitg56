@@ -41,14 +41,6 @@
 
 ---
 
-## 🥇 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/badge/prateekiiitg56?theme=dark&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 📈 GitHub Stats  
 
 <p align="center">
