@@ -43,9 +43,9 @@
 
 ## 📈 GitHub Stats  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=prateekiiitg56&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prateekiiitg56&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>  
