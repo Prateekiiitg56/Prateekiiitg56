@@ -8,7 +8,6 @@
   🌱 <b>GSSoC '25 Contributor 🏆</b> | Open Source Enthusiast <br>  
   💻 Web Dev & Problem Solving <br>  
   🚀 Always curious, always building  
-  
 </p>  
 
 ---
