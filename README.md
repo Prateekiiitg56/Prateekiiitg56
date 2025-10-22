@@ -26,7 +26,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,react,nodejs,express,vscode,figma" />
 </p>
-
 ---
 
 ## 🏆 Achievements  
