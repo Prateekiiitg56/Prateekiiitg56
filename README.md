@@ -17,7 +17,7 @@
 - 📚 Active **Open Source Contributor** through <b>GSSoC '25</b>  
 - 🛠️ Building clean UIs and meaningful tech solutions  
 - 💬 Always open to collaboration & tech talks  
-- ⚡ Fun fact: Coffee ☕ + Code 💻 = Productivity 🚀  
+- ⚡ Fun fact: Coffee ☕  +  Code 💻 = Productivity 🚀  
 
 ---
 
