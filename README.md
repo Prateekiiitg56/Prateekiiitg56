@@ -5,7 +5,7 @@
 
 <p align="center">
   🎓 B.Tech CSE @ IIIT Guwahati <br>  
-  🌱 <b>GSSoC '25 Contributor 🏆</b> | Open Source Enthusiast <br>  
+  🌱 <b>GSSoC'25 Contributor 🏆</b> | Open Source Enthusiast <br>  
   💻 Web Dev & Problem Solving <br>  
   🚀 Always curious, always building  
 </p>  
