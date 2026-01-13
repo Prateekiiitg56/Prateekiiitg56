@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Hey%20there!%20I'm%20Prateek%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="header" />
 </h1>
 
+
 <p align="center">
   🎓 B.Tech CSE @ IIIT Guwahati <br>  
   🌱 <b>GSSoC'25 Contributor 🏆</b> | Open Source Enthusiast <br>  
