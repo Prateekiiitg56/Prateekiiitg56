@@ -1,69 +1,73 @@
-# Prateek Singh — Portfolio
+<h1 align="center">Hi, I'm Prateek </h1>
+<h3 align="center">B.Tech Student • Software Developer • AI Explorer</h3>
 
-## Instructions 🛠️
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d2d2ZlYzB5a2x0OGw4b2J4dXR3aGZvdHk3b2ZzZ2R4cWJqM3M3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="400" />
+</p>
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+---
 
-**Tech stack:** React • TypeScript • Vite • GSAP • Three.js • WebGL
+## 👨‍💻 About Me
 
-## Live Demo 🚀
+I’m a **B.Tech student graduating in 2027**, interested in **software engineering, backend systems, and AI**.  
+I focus on building strong fundamentals, writing clean code, and learning deeply.
 
-View the live deployment here: https://prateek-portfolio-tau.vercel.app/
+- 🎓 B.Tech Student (2027)
+- 💻 Software Development
+- 🤖 AI & ML exploration
+- 🌱 Continuous learning
 
-## Local AI chat (optional)
+---
 
-Create `.env.local` in the project root:
+## 🛠️ Tech Stack
 
-```
-GROQ_API_KEY=your_groq_api_key_here
-```
+**Languages**  
+Java · JavaScript · Python · SQL  
 
-Then run `npm run dev`.
+**Web & Backend**  
+HTML · CSS · React · Node.js  
 
-## Quick Start
+**Databases**  
+MySQL · MongoDB  
 
-1. Clone the repo:
+**Tools**  
+Git · GitHub · VS Code · Linux  
 
-```
-git clone https://github.com/Prateekiiitg56/Prateek-Portfolio.git
-cd Prateek-Portfolio
-```
+---
 
-2. Install dependencies and run development server:
+## 🌍 Open Source Contributor
 
-```powershell
-npm install
-npm run dev
-```
+I am an **open-source contributor in progress**, actively learning and contributing to community-driven projects.
 
-3. Build for production:
+- 🔓 Strong believer in **open collaboration & knowledge sharing**
+- 🧩 Interested in understanding **real-world codebases**
+- 🛠️ Contributing through bug fixes, improvements, and documentation
+- 📚 Learning best practices from experienced maintainers
+- 🎯 Long-term goal: consistent, meaningful open-source contributions
 
-```powershell
-npm run build
-```
+I value clean code, clear communication, and building software that benefits the wider community.
 
-## Environment
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" />
+</p>
 
-Create a `.env.local` in the project root if you need to set API keys:
+## 🏆 Achievements & Recognition
 
-```
-GROQ_API_KEY=your_groq_api_key_here
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Consistent%20Learner-Active-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Community-Driven-orange?style=for-the-badge" />
+</p>
 
-## Deployment
 
-This project is deployed on Vercel. Build command: `npm run build`, Output directory: `dist`.
+## 📊 GitHub Profile
 
-If you prefer GitHub Pages, you can build and publish the `dist` folder to Pages or keep using Vercel for serverless APIs.
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Prateekiiitg56-181717?style=for-the-badge&logo=github" />
+</p>
 
-## Contributing
+---
 
-If you see any issues or want to contribute, open a PR or an issue on GitHub.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+<p align="center">
+  <i>Build quietly. Let results speak.</i>
+</p>
