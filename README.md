@@ -6,7 +6,10 @@
 </p>
 
 ---
+🚀 Portfolio
+##Check out my personal portfolio here:
 
+👉 https://prateek-portfolio-tau.vercel.app/
 
 ## 👨‍💻 About Me
 
