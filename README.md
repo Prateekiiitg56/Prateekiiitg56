@@ -25,19 +25,39 @@ I focus on building strong fundamentals, writing clean code, and learning deeply
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-Java · JavaScript · Python · SQL  
+```bash
+prateek@github:~$ whoami
+Prateek Singh - Open Source Contributor & Software Developer
 
-**Web & Backend**  
-HTML · CSS · React · Node.js  
+prateek@github:~$ cat /etc/skills/languages.conf
+c/c++
+Java
+JavaScript
+Python
+SQL
 
-**Databases**  
-MySQL · MongoDB  
+prateek@github:~$ cat /etc/skills/web_backend.conf
+HTML
+CSS
+React
+Node.js
+Express
 
-**Tools**  
-Git · GitHub · VS Code · Linux  
+prateek@github:~$ cat /etc/skills/databases.conf
+MySQL
+MongoDB
 
----
+prateek@github:~$ ls /usr/bin/tools
+git
+github
+vscode
+linux
+postman
+
+prateek@github:~$ echo "Learning. Building. Improving."
+Learning. Building. Improving.
+```
+
 
 ## 🌍 Open Source Contributor
 
