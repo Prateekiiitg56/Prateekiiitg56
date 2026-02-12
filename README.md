@@ -54,7 +54,6 @@ vscode
 linux
 postman
 
-prateek@github:~$ echo "Learning. Building. Improving."
 Learning. Building. Improving.
 ```
 
