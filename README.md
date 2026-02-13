@@ -92,5 +92,7 @@ I value clean code, clear communication, and building software that benefits the
 ---
 
 <p align="center">
+  
   <i>Build quietly. Let results speak.</i>
+  
 </p>
