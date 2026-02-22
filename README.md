@@ -5,7 +5,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d2d2ZlYzB5a2x0OGw4b2J4dXR3aGZvdHk3b2ZzZ2R4cWJqM3M3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="400" />
 </p>
 
-
 ---
 
 Check out my personal portfolio here
