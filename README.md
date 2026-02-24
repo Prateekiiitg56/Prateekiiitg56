@@ -72,6 +72,7 @@ I am an **open-source contributor in progress**, actively learning and contribut
 
 I value clean code, clear communication, and building software that benefits the wider community.
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" />
 </p>
