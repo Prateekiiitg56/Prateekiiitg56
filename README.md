@@ -8,7 +8,6 @@
 
 
 
-
 Check out my personal portfolio here
 
 👉 https://prateek-portfolio-tau.vercel.app/
@@ -97,6 +96,6 @@ I value clean code, clear communication, and building software that benefits the
 
 <p align="center">
   
-  <i>Build quietly. Let results speak.</i>
+  <i>Build quietly. Let results speak!!</i>
   
 </p>
