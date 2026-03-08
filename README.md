@@ -69,6 +69,7 @@ I am an **open-source contributor in progress**, actively learning and contribut
 - 📚 Learning best practices from experienced maintainers
 - 🎯 Long-term goal: consistent, meaningful open-source contributions
 
+
 I value clean code, clear communication, and building software that benefits the wider community.
 
 
