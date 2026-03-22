@@ -16,7 +16,6 @@ I’m a **B.Tech student graduating in 2027**, interested in **software engineer
 I focus on building strong fundamentals, writing clean code, and learning deeply.
 
 
-
 - 🎓 B.Tech Student (2027)
 - 💻 Software Development
 - 🤖 AI & ML exploration
