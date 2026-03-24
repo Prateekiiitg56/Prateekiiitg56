@@ -20,7 +20,6 @@ I focus on building strong fundamentals, writing clean code, and learning deeply
 - 🤖 AI & ML exploration
 - 🌱 Continuous learning
 
-
 ---
 
 ## 🛠️ Tech Stack
