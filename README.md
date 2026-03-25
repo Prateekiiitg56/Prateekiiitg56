@@ -22,7 +22,6 @@ I focus on building strong fundamentals, writing clean code, and learning deeply
 - 🌱 Continuous learning
 
 ---
-
 ## 🛠️ Tech Stack
 
 ```bash
