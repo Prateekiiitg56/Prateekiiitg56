@@ -14,7 +14,7 @@ Check out my personal portfolio here :
 ## 👨‍💻 About Me
 
 I’m a **B.Tech student graduating in 2027**, interested in **software engineering, backend systems, and AI**.  
-I focus on building strong fundamentals, writing clean code, and learning deeply.
+I focus on building strong fundamentals, writing clean code, and learning deeply
 
 
 - 🎓 B.Tech Student (2027)
