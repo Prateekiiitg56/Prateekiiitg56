@@ -67,7 +67,7 @@ I am an **open-source contributor in progress**, actively learning and contribut
 - 🛠️ Contributing through bug fixes, improvements, and documentation
 - 📚 Learning best practices from experienced maintainers
 - 🎯 Long-term goal: consistent, meaningful open-source contributions
-- 
+  
 
 
 
