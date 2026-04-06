@@ -11,7 +11,6 @@
 Check out my personal portfolio here :
    -> https://prateek-portfolio-tau.vercel.app/ 
    
-
 ## 👨‍💻 About Me
 
 I’m a **B.Tech student graduating in 2027**, interested in **software engineering, backend systems, and AI**.  
