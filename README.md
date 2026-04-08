@@ -70,7 +70,6 @@ I am an **open-source contributor in progress**, actively learning and contribut
   
 
 
-
 I value clean code, clear communication, and building software that benefits the wider community.
 
 
