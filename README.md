@@ -18,7 +18,7 @@
 I'm a **B.Tech student at IIIT Guwahati (2027)**, focused on building production-grade software — not just learning it. I care deeply about clean architecture, reliable backends, and systems that scale. Right now I'm exploring the intersection of **AI and backend engineering**, trying to figure out what software looks like when models are first-class citizens.
 
 I believe in building publicly, writing clean code, and learning by shipping.
--  Portfolio: **[prateek-portfolio.rauunral.app](https://prateek-portfolio.rauunral.app)**
+-  Portfolio: **[prateek-portfolio.rauunral.app](https://prateek-portfolio-tau.vercel.app/)**
 
 ---
 
