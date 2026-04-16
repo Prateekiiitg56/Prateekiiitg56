@@ -4,7 +4,7 @@
 
 ### B.Tech Student · Backend Engineer · AI Explorer
 
-**Building things that matter - one commit at a time.**
+**Building things that matter.**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Prateekiiitg56&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/Prateekiiitg56)
 [![GitHub followers](https://img.shields.io/github/followers/Prateekiiitg56?label=Followers&style=flat-square&color=58a6ff&logo=github)](https://github.com/Prateekiiitg56)
