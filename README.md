@@ -2,7 +2,7 @@
 
 # Hi, I'm Prateek Singh 
 
-### B.Tech Student · Backend Engineer · AI Explorer
+### B.Tech Student · AI Explorer
 
 **Building things that matter.**
 
