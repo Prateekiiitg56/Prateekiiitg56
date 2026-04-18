@@ -68,7 +68,7 @@ I'm an active open source contributor- I believe good software is built in the o
 -  Strong believer in **open collaboration & knowledge sharing**
 -  Interested in understanding real-world codebases
 -  Contributing through bug fixes, improvements, and documentation
--  Long-term goal: consistent, meaningful open-source contributions
+-  Long term goal: consistent, meaningful open-source contributions
 
 ---
 
