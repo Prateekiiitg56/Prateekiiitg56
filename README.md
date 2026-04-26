@@ -85,5 +85,5 @@ I'm an active open source contributor- I believe good software is built in the o
 ---
 
 <div align="center">
-  <sub> Learning. Building. Improving.  always.</sub>
+  <sub> Learning. Building. Improving. always.</sub>
 </div>
