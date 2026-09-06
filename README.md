@@ -61,7 +61,7 @@ I believe in building publicly, writing clean code, and learning by shipping.
 
 ---
 
-## 🌍 Open Source
+## Open Source
 
 I'm an active open source contributor- I believe good software is built in the open, with feedback loops that make everyone better.
 
