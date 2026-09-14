@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/reel_banner.svg" width="300" alt="Prateek Singh" />
+<img src="./assets/dino.gif" alt="Jump to it!" width="100%" />
 
 <br/><br/>
 
@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<img src="./assets/dino.gif" alt="Jump to it!" width="100%" />
+[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?cover_image=true&theme=default)](https://github.com/natemoo-re/spotify-github-profile)
 
-<br/>
+<br/><br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Prateekiiitg56&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Prateekiiitg56)
 [![GitHub followers](https://img.shields.io/github/followers/Prateekiiitg56?label=FOLLOWERS&style=for-the-badge&color=58a6ff&logo=github)](https://github.com/Prateekiiitg56)
