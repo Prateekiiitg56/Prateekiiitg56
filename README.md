@@ -68,8 +68,8 @@ currently: Exploring what software looks like when models are first-class citize
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prateekiiitg56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekiiitg56&layout=compact&theme=tokyonight&hide_border=true" width="35%" alt="Top Languages"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Prateekiiitg56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Prateekiiitg56&layout=compact&theme=tokyonight&hide_border=true" width="35%" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=Prateekiiitg56&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 
