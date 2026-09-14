@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/reel_banner.png" width="300" alt="Prateek Singh" />
+<img src="./assets/reel_banner.svg" width="300" alt="Prateek Singh" />
 
 <br/><br/>
 
