@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/pixel_scenery.svg" width="100%" alt="pixel art sunset scenery" />
+<img src="./assets/pixel_photo_banner.png" width="100%" alt="pixel art sunset window scenery" />
 
 <br/>
 
