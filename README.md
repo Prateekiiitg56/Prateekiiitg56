@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prateek+Singh;B.Tech+Student+%40+IIIT+Guwahati;AI+%2B+Backend+Explorer;Building+things+that+matter." alt="Typing SVG" />
 
+<br/><br/>
+
+<img src="./assets/dino.gif" alt="Jump to it!" width="100%" />
+
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Prateekiiitg56&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Prateekiiitg56)
