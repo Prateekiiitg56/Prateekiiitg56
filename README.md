@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/pixel_photo_banner.png" width="100%" alt="pixel art sunset window scenery" />
+<img src="./assets/reel_banner.png" width="300" alt="Prateek Singh" />
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prateek+Singh;B.Tech+Student+%40+IIIT+Guwahati;AI+%2B+Backend+Explorer;Building+things+that+matter." alt="Typing SVG" />
 
@@ -25,10 +25,10 @@ philosophy: "Build publicly. Ship clean code. Learn by doing."
 currently: Exploring what software looks like when models are first-class citizens
 ```
 
--  Building **production-grade** software, not just learning it
--  Exploring the intersection of **AI and backend systems**
--  Big on clean architecture, reliable backends, and things that scale
--  Portfolio → **[prateek-portfolio](https://prateek-portfolio-tau.vercel.app/)**
+- 🔭 Building **production-grade** software, not just learning it
+- 🧠 Exploring the intersection of **AI and backend systems**
+- 🌱 Big on clean architecture, reliable backends, and things that scale
+- 🌐 Portfolio → **[prateek-portfolio](https://prateek-portfolio-tau.vercel.app/)**
 
 <br/>
 
@@ -83,10 +83,10 @@ currently: Exploring what software looks like when models are first-class citize
 
 I believe good software is built in the open, with feedback loops that make everyone better.
 
--  Strong believer in **open collaboration & knowledge sharing**
--  Interested in understanding real-world codebases
--  Contributing through bug fixes, improvements, and documentation
--  Long-term goal: consistent, meaningful open-source contributions
+- 🤝 Strong believer in **open collaboration & knowledge sharing**
+- 🔍 Interested in understanding real-world codebases
+- 🐛 Contributing through bug fixes, improvements, and documentation
+- 🎯 Long-term goal: consistent, meaningful open-source contributions
 
 <br/>
 
