@@ -216,15 +216,9 @@ PROJECTS = [   # repo = GitHub repo name, used to look up the live star count
     dict(slug="bizinsight-ai", repo="BizInsight-AI", name="BizInsight AI", url=GH + "BizInsight-AI",
          tag="AI / ANALYTICS", tagc=GREEN, stars=0, stack="Python · Streamlit · NLP · Pandas",
          desc="AI-powered customer feedback analytics: sentiment analysis, key-issue detection and automated improvement suggestions."),
-    dict(slug="auraspot", repo="auraspot", name="AuraSpot", url=GH + "auraspot",
-         tag="FULL STACK · REAL-TIME", tagc=MAGENTA, stars=0, stack="Next.js · Firebase · CSS Modules",
-         desc="Real-time real estate platform for finding, buying or selling hostels, PGs and houses, with localized discovery."),
-    dict(slug="studybuddy", repo="StudyBuddy-Chrome-Extension", name="StudyBuddy", url=GH + "StudyBuddy-Chrome-Extension",
-         tag="CHROME EXTENSION", tagc=MAGENTA, stars=0, stack="JavaScript · Chrome MV3 · HTML/CSS",
-         desc="A productivity side-panel extension that gives AI-driven study help and answers student queries in real time."),
-    dict(slug="codecapsule", repo="CodeCapsule", name="CodeCapsule", url=GH + "CodeCapsule",
-         tag="FULL STACK", tagc=GREEN, stars=0, stack="React · Node.js · IndexedDB",
-         desc="A secure home for code snippets: store and manage sensitive snippets and write quick project documentation."),
+    dict(slug="splitterai", repo="SplitterAi", name="SplitterAi", url=GH + "SplitterAi",
+         tag="MULTI-AGENT AI", tagc=MAGENTA, stars=0, stack="Python · FastAPI · LiteLLM · React",
+         desc="Breaks a task into subtasks and runs them through specialist AI agents in parallel, each on a free LLM."),
 ]
 CARD_H = 200
 
