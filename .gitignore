@@ -27,4 +27,5 @@ dist-ssr
 backup/
 .env
 redoxchess-engine/
-.env.local
+.env.local__pycache__/
+*.pyc
