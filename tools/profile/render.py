@@ -398,7 +398,7 @@ def build_stack():
 
 # ──────────────────────────────── links ───────────────────────────────
 LINKS = [
-    ("portfolio", "Portfolio", "prateek-portfolio", "https://prateek-portfolio-tau.vercel.app/"),
+    ("portfolio", "Portfolio", "pryxforge.tech", "https://pryxforge.tech/"),
     ("github", "GitHub", "@Prateekiiitg56", "https://github.com/Prateekiiitg56"),
     ("linkedin", "LinkedIn", "in/prateekiiitg56", "https://www.linkedin.com/in/prateekiiitg56/"),
 ]
