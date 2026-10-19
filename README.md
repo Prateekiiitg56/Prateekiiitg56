@@ -1,7 +1,7 @@
 <p align="center">
 <img src="./assets/header.svg" width="100%" align="top" alt="Prateek Singh — B.Tech student at IIIT Guwahati, class of 2027. Full-stack developer exploring AI and backend engineering.">
 <img src="./assets/links.svg" width="100%" align="top" alt="Links">
-<a href="pryxforge.tech/"><img src="./assets/links/portfolio.svg" width="33.29%" align="top" alt="Portfolio"></a><a href="https://github.com/Prateekiiitg56"><img src="./assets/links/github.svg" width="33.29%" align="top" alt="GitHub"></a><a href="https://www.linkedin.com/in/prateekiiitg56/"><img src="./assets/links/linkedin.svg" width="33.41%" align="top" alt="LinkedIn"></a>
+<a href="https://pryxforge.tech/"><img src="./assets/links/portfolio.svg" width="33.29%" align="top" alt="Portfolio"></a><a href="https://github.com/Prateekiiitg56"><img src="./assets/links/github.svg" width="33.29%" align="top" alt="GitHub"></a><a href="https://www.linkedin.com/in/prateekiiitg56/"><img src="./assets/links/linkedin.svg" width="33.41%" align="top" alt="LinkedIn"></a>
 <img src="./assets/stats.svg" width="100%" align="top" alt="Stats: 23 total stars; 1145 contributions in 2026, 1400 all time; 105 pull requests (80 merged); current streak 15 days, longest 35 days; 12 followers; 68 forks; 34 public repos; member since November 2023. Top languages: Jupyter Notebook, TypeScript, JavaScript, Python, CSS.">
 <img src="./assets/contribution-city.svg" width="100%" align="top" alt="Contribution city: an isometric night skyline with one building per day of the last year. 1,159 contributions, busiest day June 2 with 67.">
 <img src="./assets/projects.svg" width="100%" align="top" alt="Projects">
