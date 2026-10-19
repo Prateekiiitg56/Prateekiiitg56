@@ -46,7 +46,7 @@
     "Jupyter Notebook": 15071149,
     "TypeScript": 1417107,
     "JavaScript": 977275,
-    "Python": 850397,
+    "Python": 850376,
     "CSS": 528789,
     "HTML": 247614,
     "Java": 24651,
@@ -56,12 +56,12 @@
     "Batchfile": 130,
     "Procfile": 65
   },
-  "prs": 105,
-  "prs_merged": 80,
-  "commits_year": 678,
-  "commits_all": 764,
-  "contributions_year": 1145,
-  "contributions_all": 1400,
-  "streak_current": 15,
+  "prs": 106,
+  "prs_merged": 81,
+  "commits_year": 679,
+  "commits_all": 765,
+  "contributions_year": 1147,
+  "contributions_all": 1402,
+  "streak_current": 16,
   "streak_longest": 35
 }
